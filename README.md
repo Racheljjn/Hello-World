@@ -1,2 +1,2 @@
 # Hello-World
-Hello everyone!
+Hello everyone! My name is Rachel, a front-end developer based out of Toronto. I transitioned to front-end web development after working at financial industry for two years. From my background in finance and banking risk analysis, I possess excellent communication and critical thinking skills, with a strong focus on detail and problem solving. I am currently pursuing an opportunity to apply my front-end skills to create web applications with engaging user experience. I love how coding lets me turn creative ideas into reality. I have the most fun when I am doing something creative. It boosts my energy and makes me feel more alive. 
